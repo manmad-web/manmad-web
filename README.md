@@ -53,7 +53,7 @@ Associate VP at the Simon Fraser Student Society, Faculty of Applied Sciences am
 
 <div align="center">
 
-Open to Summer 2027 co-op and internship roles in AI engineering, evaluation and safety.
+Always happy to talk AI safety, evaluation, audit tech and startups.
 **[Say hello →](mailto:mma310@sfu.ca)**
 
 </div>
