@@ -38,9 +38,9 @@ Everything I've built, each listed once. The [portfolio](https://manmad-web.gith
 
 | Project | What it is |
 | --- | --- |
-| [**AskSFU**](https://github.com/manmad-web/AskSFU-Chatbot) | SFU's first AI-powered student support chatbot (LangChain, GPT-4, RAG vs GraphRAG). It answers questions on courses, professors, clubs and maps and reads uploaded schedules and transcripts. UI/UX People's Choice Award. Also: [backend](https://github.com/manmad-web/sfu-chatbot-backend) and [CMPT 363 version](https://github.com/manmad-web/asksfu-cmpt363). |
+| [**AskSFU**](https://github.com/manmad-web/AskSFU-Chatbot) | SFU's first AI-powered student support chatbot (LangChain, GPT-4, RAG vs GraphRAG). It answers questions on courses, professors, clubs and maps and reads uploaded schedules and transcripts. UI/UX People's Choice Award. |
 | **Moment Intelligence** | An AI supplier discovery dashboard for Moment Energy, with FEOC-compliant supplier discovery and a multi-agent RAG pipeline. 1st place at the Chang Institute Catalyst Challenge. |
-| **SFSS Nexus** | A group project: a mobile-first app concept that puts room booking, events, clubs and student services in one place. |
+| [**SFSS Nexus**](https://github.com/AnasHassar/276-Project) | A group-of-five Spring Boot web app (CMPT 276) that puts transit, weather, campus events and clubs on one dashboard for SFU students. |
 | **ZENJI** | A zero-sugar synbiotic gut-health drink that upcycles imperfect produce. Second runner-up, Chang Institute Top Idea Prize. |
 
 **Coursework & tools**
