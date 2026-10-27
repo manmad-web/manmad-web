@@ -29,7 +29,7 @@ Everything I've built, each listed once. The [portfolio](https://manmad-web.gith
 | Project | What it is |
 | --- | --- |
 | [**IntelliAudit**](https://github.com/manmad-web/IntelliAudit) | A standards-citation benchmark for LLM financial auditing. It scores whether a system can name the governing ASC reference for a violation on real 10-K data, with deterministic ground truth. |
-| **SignShield** | A temporal defense against adversarial traffic-sign attacks (CMPT 310, with Adam Silver and Manav Juthani). A ResNet-18 CNN-LSTM with temporal attention held 98.4% accuracy when 6 of 8 frames were attacked, against 67.1% for a majority-vote baseline. |
+| [**SignShield**](https://github.com/manavjuthani/signshield) | A temporal defense against adversarial traffic-sign attacks (CMPT 310, with Adam Silver and Manav Juthani). A ResNet-18 CNN-LSTM with temporal attention held 98.4% accuracy when 6 of 8 frames were attacked, against 67.1% for a majority-vote baseline. |
 | **Audit agent** | Research at SFU: an agent that reviews financial statements and cites the exact accounting rule broken, grounded in 17,800+ standards. |
 | **Red-teaming service** | PyRIT-based adversarial testing of a multi-agent RAG system for the BC Government, with Crescendo and TAP attacks and LLM-as-judge scoring. |
 | **GovernAI** | A multi-agent AI output evaluation platform built at TechVest Global. It scores 44 behavioral metrics and maps outputs to the EU AI Act, NIST AI RMF and ISO 42001. |
