@@ -20,15 +20,35 @@ Hi, I'm Manish. I'm a Computer Science major (Statistics minor) at **Simon Frase
 | **Undergraduate Researcher**, SFU | Researching how LLMs can detect accounting and audit fraud: an agent that reviews financial statements and cites the exact accounting rule broken. |
 | **ZENJI** | Building a zero-sugar fermented gut-health drink that upcycles imperfect produce. |
 
-## Selected work
+## Projects
+
+Everything I've built, each listed once. The [portfolio](https://manmad-web.github.io/portfolio-console/) has the full write-ups.
+
+**AI safety & research**
 
 | Project | What it is |
 | --- | --- |
 | [**IntelliAudit**](https://github.com/manmad-web/IntelliAudit) | A standards-citation benchmark for LLM financial auditing. It scores whether a system can name the governing ASC reference for a violation on real 10-K data, with deterministic ground truth. |
-| [**AskSFU**](https://github.com/manmad-web/AskSFU-Chatbot) | SFU's first AI-powered student support chatbot (LangChain, GPT-4, RAG). It answers questions on courses, professors, clubs and maps, and can read an uploaded schedule or transcript. People's Choice UI/UX Award. |
-| [**Portfolio Console**](https://github.com/manmad-web/portfolio-console) | My portfolio as an interactive 3D mechanical keyboard. Plain HTML, CSS and SVG with no framework. [Live site](https://manmad-web.github.io/portfolio-console/). |
+| **SignShield** | A temporal defense against adversarial traffic-sign attacks (CMPT 310, with Adam Silver and Manav Juthani). A ResNet-18 CNN-LSTM with temporal attention held 98.4% accuracy when 6 of 8 frames were attacked, against 67.1% for a majority-vote baseline. |
+| **Audit agent** | Research at SFU: an agent that reviews financial statements and cites the exact accounting rule broken, grounded in 17,800+ standards. |
+| **Red-teaming service** | PyRIT-based adversarial testing of a multi-agent RAG system for the BC Government, with Crescendo and TAP attacks and LLM-as-judge scoring. |
 | **GovernAI** | A multi-agent AI output evaluation platform built at TechVest Global. It scores 44 behavioral metrics and maps outputs to the EU AI Act, NIST AI RMF and ISO 42001. |
-| **Moment Intelligence** | A supplier discovery dashboard with a multi-agent RAG pipeline, pitched to Moment Energy's CEO and COO. 1st place at the Chang Institute Catalyst Challenge. |
+
+**Products & competitions**
+
+| Project | What it is |
+| --- | --- |
+| [**AskSFU**](https://github.com/manmad-web/AskSFU-Chatbot) | SFU's first AI-powered student support chatbot (LangChain, GPT-4, RAG vs GraphRAG). It answers questions on courses, professors, clubs and maps and reads uploaded schedules and transcripts. UI/UX People's Choice Award. Also: [backend](https://github.com/manmad-web/sfu-chatbot-backend) and [CMPT 363 version](https://github.com/manmad-web/asksfu-cmpt363). |
+| **Moment Intelligence** | An AI supplier discovery dashboard for Moment Energy, with FEOC-compliant supplier discovery and a multi-agent RAG pipeline. 1st place at the Chang Institute Catalyst Challenge. |
+| **SFSS Nexus** | A group project: a mobile-first app concept that puts room booking, events, clubs and student services in one place. |
+| **ZENJI** | A zero-sugar synbiotic gut-health drink that upcycles imperfect produce. Second runner-up, Chang Institute Top Idea Prize. |
+
+**Coursework & tools**
+
+| Project | What it is |
+| --- | --- |
+| [**Rate CS Staff**](https://github.com/manmad-web/rate-cs-staff) | A full CRUD Spring Boot app with Thymeleaf and PostgreSQL for rating CS teaching staff, with validation and a full test suite (CMPT 276). |
+| [**Portfolio Console**](https://github.com/manmad-web/portfolio-console) | My portfolio as an interactive 3D mechanical keyboard in plain HTML, CSS and SVG. [Live site](https://manmad-web.github.io/portfolio-console/). |
 
 ## Recognition
 
@@ -39,11 +59,12 @@ Hi, I'm Manish. I'm a Computer Science major (Statistics minor) at **Simon Frase
 
 ## Tools I use
 
-**Languages:** `Python` `SQL` `C++` `JavaScript`
-**AI / ML:** `PyTorch` `scikit-learn` `LangChain` `LangGraph` `AutoGen` `CrewAI` `PyRIT` `RAG`
-**Web:** `React` `Node.js` `Tailwind CSS` `FastAPI` `REST`
-**Infra:** `Docker` `OpenShift` `Azure` `AWS` `PostgreSQL` `pgvector` `Git / CI/CD`
-**AI-assisted dev:** `Claude Code` `Cursor` `Windsurf` `n8n` `Base44`
+**Languages:** `Python` `Java` `JavaScript` `SQL` `C++` `HTML/CSS` `Shell`  
+**AI / ML:** `PyTorch` `torchvision` `ResNet-18` `CNN + LSTM` `scikit-learn` `NumPy` `OpenCV` `LangChain` `LangGraph` `AutoGen` `CrewAI` `PyRIT` `RAG` `GraphRAG` `GPT-4 / GPT-4o`  
+**Web & backend:** `React` `Node.js` `Spring Boot` `Thymeleaf` `FastAPI` `REST` `Tailwind CSS`  
+**Data & infra:** `PostgreSQL` `pgvector` `SEC EDGAR / XBRL` `Docker` `OpenShift` `Azure` `AWS` `Git / CI/CD`  
+**AI-assisted dev:** `Claude Code` `Cursor` `Windsurf` `Mem0` `n8n` `Base44` `Emergent` `Google Stitch`  
+**Product & design:** `UI/UX` `Cognitive walkthroughs` `Product requirements` `Market sizing` `Unit economics`
 
 ## Beyond the code
 
