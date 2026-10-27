@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Manish Madishetty. AI safety evals, red-teaming and audit agents.">
+<title>Manish Madishetty</title>
+<style>
+  .k{animation:pop 7s cubic-bezier(.3,.7,.4,1) infinite}
+  @keyframes pop{0%,100%{transform:translateY(0)}3%{transform:translateY(-14px)}7%{transform:translateY(2px)}10%{transform:translateY(-4px)}13%{transform:translateY(0)}}
+  .clip{animation:type 8s steps(48) infinite}
+  @keyframes type{0%{width:0}45%,92%{width:749px}100%{width:0}}
+  .caret{animation:blink 1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){.k,.clip,.caret{animation:none}.clip{width:749px}}
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17171a"/><stop offset="1" stop-color="#0d0d0f"/></linearGradient>
+  <radialGradient id="glow" cx=".85" cy=".1" r=".6"><stop offset="0" stop-color="#EC6426" stop-opacity=".22"/><stop offset="1" stop-color="#EC6426" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect class="clip" x="0" y="0" width="749" height="48"/></clipPath>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#glow)"/>
+<rect x=".5" y=".5" width="1199" height="359" rx="21.5" fill="none" stroke="#2a2a2f"/>
+<text x="60" y="64" font-family="Courier New,Courier,monospace" font-size="15" font-weight="700" letter-spacing="3" fill="#F8A91F">MANISH / CAREER INDEX</text>
+<text x="60" y="128" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="62" letter-spacing="-1.5" fill="#FDE3CF">Manish Madishetty</text>
+<g transform="translate(60 150)">
+  <g clip-path="url(#c)"><text x="0" y="32" font-family="Courier New,Courier,monospace" font-weight="700" font-size="26" fill="#ECE7E2" xml:space="preserve">AI safety evals  ·  red-teaming  ·  audit agents</text></g>
+</g>
+<rect class="caret" x="813" y="156" width="12" height="30" fill="#F8A91F"/>
+<text x="60" y="214" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#9a948f">Computer Science @ SFU  ·  AI Analyst Co-op, Government of BC  ·  Vancouver</text>
+<g transform="translate(60 232)"><g class="k" style="animation-delay:0.000s">
+  <rect x="-6" y="14" width="78" height="74" rx="14" fill="#AD4017"/>
+  <rect x="-3" y="8" width="78" height="74" rx="14" fill="#AD4017" opacity=".75"/>
+  <rect x="0" y="0" width="78" height="70" rx="14" fill="#EC6426"/>
+  <rect x="3" y="3" width="72" height="3" rx="1.5" fill="#fff" opacity=".35"/>
+  <text x="39.0" y="47.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="34" fill="#66271B">P</text>
+</g></g>
+<g transform="translate(152 232)"><g class="k" style="animation-delay:0.085s">
+  <rect x="-6" y="14" width="78" height="74" rx="14" fill="#BC7512"/>
+  <rect x="-3" y="8" width="78" height="74" rx="14" fill="#BC7512" opacity=".75"/>
+  <rect x="0" y="0" width="78" height="70" rx="14" fill="#F8A91F"/>
+  <rect x="3" y="3" width="72" height="3" rx="1.5" fill="#fff" opacity=".35"/>
+  <text x="39.0" y="47.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="34" fill="#66271B">O</text>
+</g></g>
+<g transform="translate(244 232)"><g class="k" style="animation-delay:0.170s">
+  <rect x="-6" y="14" width="78" height="74" rx="14" fill="#CAA58A"/>
+  <rect x="-3" y="8" width="78" height="74" rx="14" fill="#CAA58A" opacity=".75"/>
+  <rect x="0" y="0" width="78" height="70" rx="14" fill="#FDE3CF"/>
+  <rect x="3" y="3" width="72" height="3" rx="1.5" fill="#fff" opacity=".35"/>
+  <text x="39.0" y="47.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="34" fill="#66271B">R</text>
+</g></g>
+<g transform="translate(336 232)"><g class="k" style="animation-delay:0.255s">
+  <rect x="-6" y="14" width="78" height="74" rx="14" fill="#193A23"/>
+  <rect x="-3" y="8" width="78" height="74" rx="14" fill="#193A23" opacity=".75"/>
+  <rect x="0" y="0" width="78" height="70" rx="14" fill="#2E573A"/>
+  <rect x="3" y="3" width="72" height="3" rx="1.5" fill="#fff" opacity=".35"/>
+  <text x="39.0" y="47.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="34" fill="#FDE3CF">T</text>
+</g></g>
+<g transform="translate(428 232)"><g class="k" style="animation-delay:0.340s">
+  <rect x="-6" y="14" width="78" height="74" rx="14" fill="#487A26"/>
+  <rect x="-3" y="8" width="78" height="74" rx="14" fill="#487A26" opacity=".75"/>
+  <rect x="0" y="0" width="78" height="70" rx="14" fill="#72AC43"/>
+  <rect x="3" y="3" width="72" height="3" rx="1.5" fill="#fff" opacity=".35"/>
+  <text x="39.0" y="47.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="34" fill="#66271B">F</text>
+</g></g>
+<g transform="translate(520 232)"><g class="k" style="animation-delay:0.425s">
+  <rect x="-6" y="14" width="78" height="74" rx="14" fill="#B76F9B"/>
+  <rect x="-3" y="8" width="78" height="74" rx="14" fill="#B76F9B" opacity=".75"/>
+  <rect x="0" y="0" width="78" height="70" rx="14" fill="#E4A5CA"/>
+  <rect x="3" y="3" width="72" height="3" rx="1.5" fill="#fff" opacity=".35"/>
+  <text x="39.0" y="47.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="34" fill="#66271B">O</text>
+</g></g>
+<g transform="translate(612 232)"><g class="k" style="animation-delay:0.510s">
+  <rect x="-6" y="14" width="78" height="74" rx="14" fill="#40150E"/>
+  <rect x="-3" y="8" width="78" height="74" rx="14" fill="#40150E" opacity=".75"/>
+  <rect x="0" y="0" width="78" height="70" rx="14" fill="#66271B"/>
+  <rect x="3" y="3" width="72" height="3" rx="1.5" fill="#fff" opacity=".35"/>
+  <text x="39.0" y="47.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="34" fill="#FDE3CF">L</text>
+</g></g>
+<g transform="translate(704 232)"><g class="k" style="animation-delay:0.595s">
+  <rect x="-6" y="14" width="78" height="74" rx="14" fill="#AD4017"/>
+  <rect x="-3" y="8" width="78" height="74" rx="14" fill="#AD4017" opacity=".75"/>
+  <rect x="0" y="0" width="78" height="70" rx="14" fill="#EC6426"/>
+  <rect x="3" y="3" width="72" height="3" rx="1.5" fill="#fff" opacity=".35"/>
+  <text x="39.0" y="47.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="34" fill="#66271B">I</text>
+</g></g>
+<g transform="translate(796 232)"><g class="k" style="animation-delay:0.680s">
+  <rect x="-6" y="14" width="78" height="74" rx="14" fill="#BC7512"/>
+  <rect x="-3" y="8" width="78" height="74" rx="14" fill="#BC7512" opacity=".75"/>
+  <rect x="0" y="0" width="78" height="70" rx="14" fill="#F8A91F"/>
+  <rect x="3" y="3" width="72" height="3" rx="1.5" fill="#fff" opacity=".35"/>
+  <text x="39.0" y="47.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="34" fill="#66271B">O</text>
+</g></g>
+<text x="1140" y="326" text-anchor="end" font-family="Courier New,Courier,monospace" font-size="13" letter-spacing="2" fill="#6f6a66">PORTFOLIO.EXE</text>
+</svg>
